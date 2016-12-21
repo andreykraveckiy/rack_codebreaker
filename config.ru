@@ -1,4 +1,4 @@
-require 'codebreaker_gem-97c5ca141747'
+require 'codebreaker'
 
 class Racker
   def call(env)
