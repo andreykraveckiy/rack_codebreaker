@@ -11,4 +11,6 @@ class Racker
   end
 end
 
+root: '/'
+
 run Racker.new
