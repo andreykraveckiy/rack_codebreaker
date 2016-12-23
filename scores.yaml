@@ -17,3 +17,9 @@
   :result: WIN
   :name: Test Andrey
   :time: 2016-12-23 20:18:09.519667657 +02:00
+- :secret: '6346'
+  :attempts: 7
+  :hints: 1
+  :result: LOSE
+  :name: Andrey
+  :time: 2016-12-23 23:29:34.144572122 +02:00
