@@ -2,10 +2,13 @@ require 'erb'
 require 'codebreaker'
 
 class Racker
-  def call(env)
+  def self.call(env)
+    new(env).response.finish
+  end
+
+  def initialize(env)    
     @request = Rack::Request.new(env)    
     @game = return_game
-    response.finish
   end
 
   def response
