@@ -1,0 +1,27 @@
+<% unless @game.answers.nil? %>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Status</th>
+      <th>Secret</th>
+      <th>Attempts</th>
+      <th>Hints</th>
+      <th>Date</th>
+    </tr>
+    <% @game.answers.each do |line| %>
+      <tr>
+        <td><%= line[:name] %></td>
+        <td><%= line[:result] %></td>
+        <td><%= line[:secret] %></td>
+        <td><%= line[:attempts] %></td>
+        <td><%= line[:hints] %></td>
+        <td><%= line[:time].strftime("%Y/%m/%d %H:%M:%S") %></td>
+      </tr>
+    <% end %>
+  </table>
+<% else %>
+  The achievments are apsend. Be first, brake a new record!
+<% end %>
+<form method="post" action="/back">
+  <input type="submit" value="Menu">
+</form>

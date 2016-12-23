@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/andreykraveckiy/codebreaker_gem
-  revision: 97c5ca141747740161a12d3698406ee1649db8fe
+  revision: 148ca85972ac8c6fe9cb50e4a6f788746ff08125
   branch: write_gem
   specs:
     codebreaker (0.1.0)

@@ -1,0 +1,19 @@
+---
+- :secret: '1265'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: andrey
+  :time: 2016-12-23 14:06:04.984038179 +02:00
+- :secret: '1235'
+  :attempts: 7
+  :hints: 1
+  :result: LOSE
+  :name: Andrey
+  :time: 2016-12-23 18:03:57.773390357 +02:00
+- :secret: '3632'
+  :attempts: 6
+  :hints: 1
+  :result: WIN
+  :name: Test Andrey
+  :time: 2016-12-23 20:18:09.519667657 +02:00

@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"remaining_guess"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"in",
+				"instance_variable_set"
+			],
+			[
+				"instance",
+				"instance_variable_get"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"gue",
+				"guess_process"
+			],
+			[
+				"start",
+				"start_game"
+			],
+			[
+				"_",
+				"_a"
+			],
+			[
+				"instance_variable",
+				"instance_variable_set"
+			],
+			[
+				"sec",
+				"secret_code"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"good",
+				"good_titles"
+			],
+			[
+				"count",
+				"count_reader"
+			],
+			[
+				"save",
+				"save_to_file"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"met",
+				"method_name"
+			],
+			[
+				"file",
+				"file_sandwich"
+			],
+			[
+				"Stan",
+				"StandardError"
+			],
+			[
+				"Runti",
+				"RuntimeError"
+			],
+			[
+				"tru",
+				"truth_value"
+			],
+			[
+				"false",
+				"false_stuff"
+			],
+			[
+				"another",
+				"another_user"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"have_",
+				"have_content"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"p",
+				"pririty"
+			],
+			[
+				"tasks",
+				"tasks_ar"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"devise",
+				"devise_parameter_sanitizer"
+			],
+			[
+				"controlle",
+				"controllers"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"co",
+				"commentable_type"
+			],
+			[
+				"commentable_",
+				"commentable_type"
+			],
+			[
+				"comme",
+				"comments"
+			],
+			[
+				"en",
+				"encrypted_password"
+			],
+			[
+				"Am",
+				"AMOUNT"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"se",
+				"services"
+			],
+			[
+				"dates",
+				"dates_cur"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"be_",
+				"be_invalid"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"inva",
+				"invalid_date"
+			],
+			[
+				"tim",
+				"time_currency"
+			],
+			[
+				"u",
+				"update_attribute"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"mixed",
+				"mixed_case_email"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"fo",
+				"followed_user"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"Follow",
+				"Follow"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"un",
+				"unfollowed_post"
+			],
+			[
+				"password",
+				"password_field"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"pas",
+				"password_field"
+			],
+			[
+				"remem",
+				"remember_token"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"ha",
+				"have_title"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "untitled",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/red/ruby_projects/cb_rack/new.rb",
+		"/home/red/ruby_projects/cb_rack/Gemfile",
+		"/home/red/ruby_projects/cb_rack/config.ru",
+		"/home/red/ruby_projects/codebreaker/lib/codebreaker/game_process.rb",
+		"/home/red/ruby_projects/codebreaker/lib/console.rb",
+		"/home/red/ruby_projects/codebreaker/README.md",
+		"/home/red/ruby_projects/codebreaker/scores.yaml",
+		"/home/red/ruby_projects/codebreaker/spec/codebreaker/game_process_spec.rb",
+		"/home/red/ruby_projects/codebreaker/spec/codebreaker_spec.rb",
+		"/home/red/ruby_projects/codebreaker/lib/scores.yaml",
+		"/home/red/ruby_projects/codebreaker/lib/codebreaker/scores.yaml",
+		"/home/red/ruby_projects/codebreaker/lib/untitled.rb",
+		"/home/red/ruby_projects/codebreaker/lib/codebreaker/game.rb",
+		"/home/red/ruby_projects/codebreaker/spec/codebreaker/game_spec.rb",
+		"/home/red/ruby_projects/library/library.rb",
+		"/home/red/ruby_projects/library/reader.txt",
+		"/home/red/ruby_projects/library/order.txt",
+		"/home/red/ruby_projects/library/library_terminal.rb",
+		"/home/red/ruby_projects/codebreaker/lib/codebreaker.rb",
+		"/home/red/ruby_projects/codebreaker/spec/spec_helper.rb",
+		"/home/red/ruby_projects/codebreaker/codebreaker.gemspec",
+		"/home/red/ruby_projects/codebreaker/.ruby-gemset",
+		"/home/red/ruby_projects/codebreaker/.ruby-version",
+		"/home/red/ruby_projects/meta_koans/meta_koans.rb",
+		"/home/red/ruby_projects/meta_koans/knowledge.rb",
+		"/home/red/ruby_projects/meta_koans/koan.rb",
+		"/home/red/ruby_projects/factor/README.md",
+		"/home/red/ruby_projects/factory/factory.rb",
+		"/home/red/ruby_projects/factory/run.rb",
+		"/home/red/ruby_projects/library/order.rb",
+		"/home/red/ruby_projects/library/reader.rb",
+		"/home/red/ruby_projects/library/author.rb",
+		"/home/red/ruby_projects/library/book.rb",
+		"/home/red/ruby_projects/library/.git/COMMIT_EDITMSG",
+		"/home/red/ruby_projects/library/li",
+		"/home/red/ruby_projects/library/.ruby-gemset",
+		"/home/red/ruby_projects/library/.ruby-version",
+		"/home/red/ruby_projects/library/.rvmrc",
+		"/home/red/ruby_projects/koans/README.rdoc",
+		"/home/red/ruby_projects/koans/about_scoring_project.rb",
+		"/home/red/ruby_projects/koans/about_proxy_object_project.rb",
+		"/home/red/ruby_projects/koans/about_to_str.rb",
+		"/home/red/ruby_projects/koans/example_file.txt",
+		"/home/red/ruby_projects/koans/path_to_enlightenment.rb",
+		"/home/red/ruby_projects/koans/about_extra_credit.rb",
+		"/home/red/ruby_projects/koans/about_message_passing.rb",
+		"/home/red/ruby_projects/koans/about_class_methods.rb",
+		"/home/red/ruby_projects/koans/about_classes.rb",
+		"/home/red/ruby_projects/koans/about_inheritance.rb",
+		"/home/red/ruby_projects/koans/about_scope.rb",
+		"/home/red/ruby_projects/koans/about_modules.rb",
+		"/home/red/ruby_projects/koans/about_dice_project.rb",
+		"/home/red/ruby_projects/koans/about_open_classes.rb",
+		"/home/red/ruby_projects/koans/about_blocks.rb",
+		"/home/red/ruby_projects/koans/about_sandwich_code.rb",
+		"/home/red/ruby_projects/koans/about_iteration.rb",
+		"/home/red/ruby_projects/koans/about_triangle_project_2.rb",
+		"/home/red/ruby_projects/koans/triangle.rb",
+		"/home/red/ruby_projects/koans/about_exceptions.rb",
+		"/home/red/ruby_projects/koans/about_triangle_project.rb",
+		"/home/red/ruby_projects/koans/about_true_and_false.rb",
+		"/home/red/ruby_projects/koans/about_control_statements.rb",
+		"/home/red/ruby_projects/koans/about_keyword_arguments.rb",
+		"/home/red/ruby_projects/koans/about_constants.rb",
+		"/home/red/ruby_projects/koans/about_hashes.rb",
+		"/home/red/ruby_projects/koans/about_methods.rb",
+		"/home/red/ruby_projects/koans/about_regular_expressions.rb",
+		"/home/red/ruby_projects/koans/about_symbols.rb",
+		"/home/red/ruby_projects/koans/about_strings.rb",
+		"/home/red/ruby_projects/koans/about_arrays.rb",
+		"/home/red/ruby_projects/koans/about_array_assignment.rb",
+		"/home/red/ruby_projects/koans/about_objects.rb",
+		"/home/red/ruby_projects/koans/about_nil.rb",
+		"/home/red/ruby_projects/koans/about_nil",
+		"/home/red/ruby_projects/koans/about_asserts.rb",
+		"/home/red/ruby_projects/koans/about_asserts",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/edit.html.erb",
+		"/home/red/rails_projects/productivity_manager/spec/views/tasks/edit.html.erb_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/views/projects/edit.html.erb_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/requests/projects_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/views/projects/index.html.erb_spec.rb",
+		"/home/red/rails_projects/productivity_manager/config/initializers/devise.rb",
+		"/home/red/rails_projects/productivity_manager/tmp/pids/server.pid",
+		"/home/red/rails_projects/productivity_manager/spec/controllers/tasks_controller_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/views/tasks/show.html.erb_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/views/projects/new.html.erb_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/factories.rb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/show.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/comments/_comment.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/comments/_comments.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/layouts/application.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/controllers/projects_controller.rb",
+		"/home/red/rails_projects/productivity_manager/app/views/projects/_project.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/models/task.rb",
+		"/home/red/rails_projects/productivity_manager/app/assets/stylesheets/projects.scss",
+		"/home/red/rails_projects/productivity_manager/app/views/projects/index.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/_task.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/_task_form.html.erb",
+		"/home/red/rails_projects/productivity_manager/spec/controllers/projects_controller_spec.rb",
+		"/home/red/rails_projects/productivity_manager/app/controllers/tasks_controller.rb",
+		"/home/red/rails_projects/productivity_manager/config/routes.rb",
+		"/home/red/rails_projects/productivity_manager/app/controllers/comments_controller.rb",
+		"/home/red/rails_projects/productivity_manager/README.md",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/destroy.js.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/down_priority.js.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/up_priority.js.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/projects/_project_form.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/assets/stylesheets/custom.css.scss",
+		"/home/red/rails_projects/productivity_manager/app/views/shared/_error_messages.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/comments/_comment_form.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/_completed_tasks.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/_tasks.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/create.js.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/tasks/done.js.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/comments/create.js.erb",
+		"/home/red/rails_projects/productivity_manager/app/assets/javascripts/application.js",
+		"/home/red/rails_projects/productivity_manager/app/views/projects/new.html.erb",
+		"/home/red/rails_projects/productivity_manager/app/views/projects/edit.html.erb",
+		"/home/red/rails_projects/productivity_manager/config/environments/development.rb",
+		"/home/red/rails_projects/productivity_manager/config/environments/production.rb",
+		"/home/red/rails_projects/productivity_manager/app/assets/stylesheets/tasks.scss",
+		"/home/red/rails_projects/productivity_manager/app/models/comment.rb",
+		"/home/red/rails_projects/productivity_manager/.gitignore",
+		"/home/red/rails_projects/productivity_manager/app/views/comments/new.html.erb",
+		"/home/red/rails_projects/productivity_manager/spec/models/comment_spec.rb",
+		"/home/red/rails_projects/productivity_manager/spec/models/task_spec.rb",
+		"/home/red/rails_projects/productivity_manager/Gemfile",
+		"/home/red/rails_projects/productivity_manager/db/migrate/20161107122230_create_comments.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/red/rails_projects/productivity_manager",
+			"/home/red/rails_projects/wall_posts/app/views",
+			"/home/red/rails_projects/repetition_app",
+			"/home/red/rails_projects/sample_app/app",
+			"/home/red/rails_projects/sample_app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scor",
+			"save_score",
+			"@state",
+			"curre",
+			"Sergey Evtushenko",
+			"About person, life and nature",
+			"Ruslan and Liudmila",
+			"People like a goods",
+			"About person, life and nature",
+			"People like a goods",
+			"if !",
+			"Kirill Shitikov",
+			"Tatyana Solodkaya",
+			";;",
+			"Notrdamm",
+			"caliban",
+			"$lib",
+			"time_rand",
+			"abra",
+			"user.projects.first",
+			"  \n",
+			"project",
+			"OmniAuth.config",
+			"OmniAuth.config.test_mode",
+			"include",
+			"config.include",
+			"new_button",
+			"object",
+			"post",
+			"comment_partial",
+			"new_button",
+			"post",
+			"keys",
+			"hidden_field_tag :commentable, comment",
+			"span",
+			"render '_comments', post: post",
+			"post.microposts.count",
+			"tape",
+			"users.remember_token",
+			"#999",
+			"following",
+			"microposts",
+			"gravatar_for",
+			"form_tag",
+			"form_for",
+			"form_tag",
+			"lable",
+			"#eaeaea",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "untitled",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app/views/users/_fields.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
