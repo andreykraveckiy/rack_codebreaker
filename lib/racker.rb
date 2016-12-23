@@ -1,6 +1,5 @@
 require 'erb'
 require 'codebreaker'
-require 'pry'
 
 class Racker
   def call(env)
