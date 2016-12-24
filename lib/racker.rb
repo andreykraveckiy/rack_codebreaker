@@ -32,7 +32,6 @@ class Racker
       @game.listens_and_shows(@what_ask) 
       Rack::Response.new(render('index.html.erb'))
     when '/restart'
-      @what_ask = nil
       @game.listens_and_shows('restart')
       Rack::Response.new(render('index.html.erb'))
     when '/yes'
@@ -40,23 +39,30 @@ class Racker
       Rack::Response.new(render('index.html.erb'))
     when '/no'
       @game.listens_and_shows('no')
-      Rack::Response.new(render('index.html.erb'))
+      @request.session.clear
+      redirect_to_root
     when '/save'
       @game.listens_and_shows(@request.params['user_name'])
       Rack::Response.new(render('index.html.erb'))
-    else 
-      @request.session.clear
+    else
       Rack::Response.new('Not Found', 404)
     end
   end
 
-  def render(template)
-    @partial = '_' + @game.stage.to_s + '_stage.html.erb'
-    path = File.expand_path("../views/#{template}", __FILE__)
-    ERB.new(File.read(path)).result(binding)
-  end
+  protected
+    def render(template)
+      @partial = '_' + @game.stage.to_s + '_stage.html.erb'
+      path = File.expand_path("../views/#{template}", __FILE__)
+      ERB.new(File.read(path)).result(binding)
+    end
 
-  def return_game
-    @request.session["game"] ||= Codebreaker::GameProcess.new
-  end
+    def return_game
+      @request.session["game"] ||= Codebreaker::GameProcess.new
+    end
+
+    def redirect_to_root
+      Rack::Response.new do |response|
+        response.redirect("/")
+      end
+    end
 end
