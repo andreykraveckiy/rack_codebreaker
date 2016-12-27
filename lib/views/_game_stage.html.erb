@@ -2,15 +2,11 @@
 <p>You have <%= @game.remaining_guess %> guesses.</p>
 <form method="post" action="/guess">
   <input type="text" name="guess" autofocus>
-  <input type="submit" value="Guess">
+  <input type="submit" value="Guess" class="btn btn-default btn-xs">
 </form>
 <p>You have <%= @game.remaining_hint %> hints.</p>
-<form method="post" action="/hint">
-  <input type="submit" value="Hint">
-</form>
-<form method="post" action="/restart">
-  <input type="submit" value="Restart">
-</form>
+<a href="/hint" class="btn btn-default btn-xs">Hint</a>
+<a href="/restart" class="btn btn-default btn-xs">Restart</a>
 <p>
   <% unless @what_ask.nil? %>
     <%= @what_ask %> gets <%= @game.answers %>

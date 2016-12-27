@@ -29,3 +29,33 @@
   :result: LOSE
   :name: andrey
   :time: 2016-12-24 21:44:23.005132323 +02:00
+- :secret: '5132'
+  :attempts: 7
+  :hints: 2
+  :result: LOSE
+  :name: Test
+  :time: 2016-12-27 13:03:25.208502841 +02:00
+- :secret: '5665'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: ''
+  :time: 2016-12-27 13:14:44.618179283 +02:00
+- :secret: '4431'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: ''
+  :time: 2016-12-27 13:17:06.588776770 +02:00
+- :secret: '5216'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: '1356'
+  :time: 2016-12-27 13:19:16.184776949 +02:00
+- :secret: '1323'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Andrey
+  :time: 2016-12-27 13:25:45.786861343 +02:00
