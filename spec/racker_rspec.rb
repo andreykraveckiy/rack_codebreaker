@@ -13,7 +13,7 @@ RSpec.describe Racker do
 
   context "stage scores" do
     specify 'post /scores return scores table' do
-      expect(subject.post("/scores").body).to match(/<table>/)
+      expect(subject.post("/scores").body).to match(/<table/)
     end
   end
 
