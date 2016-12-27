@@ -1,52 +1,16 @@
 ---
-- :secret: '1265'
-  :attempts: 7
-  :hints: 0
-  :result: LOSE
-  :name: andrey
-  :time: 2016-12-23 14:06:04.984038179 +02:00
 - :secret: '1235'
   :attempts: 7
   :hints: 1
   :result: LOSE
   :name: Andrey
   :time: 2016-12-23 18:03:57.773390357 +02:00
-- :secret: '3632'
-  :attempts: 6
-  :hints: 1
-  :result: WIN
-  :name: Test Andrey
-  :time: 2016-12-23 20:18:09.519667657 +02:00
 - :secret: '6346'
   :attempts: 7
   :hints: 1
   :result: LOSE
   :name: Andrey
   :time: 2016-12-23 23:29:34.144572122 +02:00
-- :secret: '1655'
-  :attempts: 7
-  :hints: 0
-  :result: LOSE
-  :name: andrey
-  :time: 2016-12-24 21:44:23.005132323 +02:00
-- :secret: '5132'
-  :attempts: 7
-  :hints: 2
-  :result: LOSE
-  :name: Test
-  :time: 2016-12-27 13:03:25.208502841 +02:00
-- :secret: '5665'
-  :attempts: 7
-  :hints: 0
-  :result: LOSE
-  :name: ''
-  :time: 2016-12-27 13:14:44.618179283 +02:00
-- :secret: '4431'
-  :attempts: 7
-  :hints: 0
-  :result: LOSE
-  :name: ''
-  :time: 2016-12-27 13:17:06.588776770 +02:00
 - :secret: '5216'
   :attempts: 7
   :hints: 0
