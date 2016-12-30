@@ -23,3 +23,57 @@
   :result: LOSE
   :name: Andrey
   :time: 2016-12-27 13:25:45.786861343 +02:00
+- :secret: '5355'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: andrey
+  :time: 2016-12-31 00:09:52.900208514 +02:00
+- :secret: '3531'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:26:50.241178163 +02:00
+- :secret: '3652'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:27:23.679713472 +02:00
+- :secret: '5436'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:32:37.611024492 +02:00
+- :secret: '2654'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:32:37.647516900 +02:00
+- :secret: '5461'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:32:37.686523817 +02:00
+- :secret: '6151'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:32:37.725628209 +02:00
+- :secret: '2256'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:32:37.772514678 +02:00
+- :secret: '2633'
+  :attempts: 7
+  :hints: 0
+  :result: LOSE
+  :name: Lorem Ipsum
+  :time: 2016-12-31 00:32:37.802823562 +02:00

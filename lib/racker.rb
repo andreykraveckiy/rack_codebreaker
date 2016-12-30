@@ -1,5 +1,6 @@
 require 'erb'
 require 'codebreaker'
+require 'pry'
 
 class Racker
   def self.call(env)
@@ -80,6 +81,7 @@ class Racker
 
     def render(template)
       @partial = '_' + @game.stage.to_s + '_stage.html.erb'
+      # binding.pry
       path = File.expand_path("../views/#{template}", __FILE__)
       ERB.new(File.read(path)).result(binding)
     end
