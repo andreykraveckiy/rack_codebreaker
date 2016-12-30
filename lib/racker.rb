@@ -41,7 +41,7 @@ class Racker
 
     def back_path
       @game.listens_and_shows("back")
-      Rack::Response.new(render('index.html.erb'))
+      redirect_to_root
     end
 
     def hint_path
