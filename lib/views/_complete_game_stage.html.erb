@@ -1,0 +1,11 @@
+<h1>You are <%= @game.score[:result] %>!</h1>
+<p>Your result is:</p>
+<ul>
+  <li>Secret code: <%= @game.score[:secret] %></li>
+  <li>Attemts were made: <%= @game.score[:attempts] %></li>
+  <li>Hints are used: <%= @game.score[:hints] %></li>
+</ul>
+
+<p>Would you like to save your result?</p>
+<a href="/yes" class="btn btn-default btn-xs">Yes</a>
+<a href="/no" class="btn btn-default btn-xs">No</a>
